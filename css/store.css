@@ -1,3 +1,21 @@
 .container{
     height:1000px;
 }
+
+.container {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    margin:1;
+    top: 0;
+    width: 100%;
+  }
+
+  body{
+      margin:0;
+      padding:0;
+  }
+  
+  

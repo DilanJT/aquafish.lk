@@ -35,9 +35,10 @@ li a:hover{
 
 .shop{
     float:right !important;
-    
+    margin-right: 40px;
 }
 .logo{
     text-align:center;
     color:rgb(25, 25, 124);
 }
+
