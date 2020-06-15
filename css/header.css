@@ -1,0 +1,43 @@
+header{
+    padding:0;
+    margin:0;
+}
+ul li{
+    float:left;
+    list-style-type: none;
+}
+
+ul{
+    background-color:#5dcfe8;
+    height:auto;
+    display:block;
+    overflow:auto;
+}
+
+li a{
+    display: block;
+    color:rgb(9, 9, 66);
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+nav{
+
+    padding:0;
+    margin:0;
+    height:auto;
+    overflow:auto;
+}
+li a:hover{
+    background-color:darkblue;
+    color:white;
+}
+
+.shop{
+    float:right !important;
+    
+}
+.logo{
+    text-align:center;
+    color:rgb(25, 25, 124);
+}
