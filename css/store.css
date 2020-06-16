@@ -17,5 +17,16 @@
       margin:0;
       padding:0;
   }
+
+  .categories{
+    background-color:rgb(23, 110, 182);
+  }
+  .categories li a{
+    color:white;
+  }
+  .categories li a:hover{
+    background-color:rgb(79, 197, 236);
+    color: rgb(7, 7, 75);
+  }
   
   

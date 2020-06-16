@@ -41,4 +41,10 @@ li a:hover{
     text-align:center;
     color:rgb(25, 25, 124);
 }
-
+.material-icons{
+    font-size: 16px;
+}
+#cart{
+    color:rgb(248, 2, 2);
+    font-weight: bold;
+}
